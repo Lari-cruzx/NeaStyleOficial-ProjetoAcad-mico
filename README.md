@@ -16,6 +16,19 @@ The project was developed following Software Engineering principles, including R
 
 ---
 
+## 👩‍💻 Minha contribuição
+
+Neste projeto, minha atuação esteve concentrada na documentação e na análise dos requisitos do sistema.
+
+- Levantamento e análise de requisitos;
+- Elaboração e organização da documentação do projeto;
+- Definição e detalhamento dos requisitos funcionais e não funcionais;
+- Levantamento e organização das regras de negócio;
+- Elaboração e organização das histórias de usuário;
+- Apoio na definição dos critérios de aceitação;
+- Organização das informações utilizadas para o planejamento e desenvolvimento do sistema.
+
+
 ## Objectives
 
 - Sell clothing products for teenagers
